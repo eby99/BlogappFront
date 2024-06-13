@@ -18,7 +18,7 @@ const Signin = () => {
             (response) => {
                 console.log(response.data)
                 if (response.data.status == "success") {
-                    alert("Successfully Registered")
+                    alert(" Registered")
                 }
                 else {
                     alert("Not Registered")
