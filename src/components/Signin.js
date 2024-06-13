@@ -18,7 +18,7 @@ const Signin = () => {
                 <div className="col col-6 col-sm-6 col-md-6 col-xl-6 col-xxl-6">
                 </div>
                 <div className="col col-6 col-sm-6 col-md-6 col-xl-6 col-xxl-6">
-                    <label htmlFor="" className="label form-label">Enter Password</label>
+                    <label htmlFor="" className="label form-label">Password</label>
                     <input type="text" className="form-control" placeholder='password'/>
                 </div>
                 <div className="col col-6 col-sm-6 col-md-6 col-xl-6 col-xxl-6">
